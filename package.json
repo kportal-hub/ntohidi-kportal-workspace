@@ -1,0 +1,26 @@
+{
+  "name": "workspace-thub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/rest": "^16.36.0",
+    "axios": "^0.19.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KidoCode/workspace-thub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KidoCode/workspace-thub/issues"
+  },
+  "homepage": "https://github.com/KidoCode/workspace-thub#readme"
+}
