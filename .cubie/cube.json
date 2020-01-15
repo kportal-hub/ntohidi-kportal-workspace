@@ -10,7 +10,7 @@
     "cubes": {
         "javascript": {
             "time": 1579091418484,
-            "modified": 1579091616914,
+            "modified": 1579091670477,
             "complete": 0,
             "current": {
                 "lesson": "topic1/lesson2",
@@ -20,6 +20,16 @@
             "result": {
                 "topic1": {
                     "lesson1": {
+                        "test": {
+                            "status": true,
+                            "total": 5,
+                            "failed": 0,
+                            "passed": 5
+                        },
+                        "points": 5000,
+                        "resultUrl": ""
+                    },
+                    "lesson2": {
                         "test": {
                             "status": true,
                             "total": 5,
