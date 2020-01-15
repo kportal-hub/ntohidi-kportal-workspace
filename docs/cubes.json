@@ -10,10 +10,10 @@
     "cubes": {
         "javascript": {
             "time": 1579091418484,
-            "modified": 1579091514316,
+            "modified": 1579091616914,
             "complete": 0,
             "current": {
-                "lesson": "topic1/lesson1",
+                "lesson": "topic1/lesson2",
                 "scenario": "default"
             },
             "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-javascript-cube/master/javascript.cube.json",
