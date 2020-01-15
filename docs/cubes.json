@@ -9,38 +9,17 @@
     },
     "cubes": {
         "javascript": {
-            "time": 1579091418484,
-            "modified": 1579091904763,
-            "complete": 1579091912306,
-            "current": {
-                "lesson": "topic1/lesson2",
-                "scenario": "default"
+            "user": {
+                "id": "intern3303",
+                "name": "Nasrin Tohidi",
+                "username": "ntohidi",
+                "avatar": "https://avatars2.githubusercontent.com/u/17140097?v=4",
+                "email": "nasrin@kidocode.com",
+                "location": "Malaysia"
             },
-            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-javascript-cube/master/javascript.cube.json",
-            "result": {
-                "topic1": {
-                    "lesson1": {
-                        "test": {
-                            "status": true,
-                            "total": 5,
-                            "failed": 0,
-                            "passed": 5
-                        },
-                        "points": 5000,
-                        "resultUrl": ""
-                    },
-                    "lesson2": {
-                        "test": {
-                            "status": true,
-                            "total": 5,
-                            "failed": 0,
-                            "passed": 5
-                        },
-                        "points": 10000,
-                        "resultUrl": ""
-                    }
-                }
-            }
+            "time": 1579092592294,
+            "complete": 0,
+            "modified": 0
         }
     },
     "currentCube": "javascript",
