@@ -6,5 +6,19 @@
         "avatar": "https://avatars2.githubusercontent.com/u/17140097?v=4",
         "email": "nasrin@kidocode.com",
         "location": "Malaysia"
-    }
+    },
+    "cubes": {
+        "javascript": {
+            "time": 1579089633713,
+            "modified": 0,
+            "complete": 0,
+            "current": {
+                "lesson": "",
+                "scenario": "default"
+            },
+            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-kportal-workspace/master/javascript.cube.json"
+        }
+    },
+    "currentCube": "javascript",
+    "currentType": "cubes"
 }
