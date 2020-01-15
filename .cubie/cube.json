@@ -9,14 +9,14 @@
     },
     "cubes": {
         "javascript": {
-            "time": 1579091418484,
-            "modified": 1579091904763,
-            "complete": 1579091912306,
+            "time": 1579092592614,
+            "modified": 0,
+            "complete": 0,
             "current": {
-                "lesson": "topic1/lesson2",
+                "lesson": "",
                 "scenario": "default"
             },
-            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-javascript-cube/master/javascript.cube.json",
+            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-kportal-workspace/master/javascript.cube.json",
             "result": {
                 "topic1": {
                     "lesson1": {
