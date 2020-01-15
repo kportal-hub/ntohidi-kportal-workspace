@@ -10,13 +10,27 @@
     "cubes": {
         "javascript": {
             "time": 1579089735355,
-            "modified": 0,
+            "modified": 1579089842746,
             "complete": 0,
             "current": {
                 "lesson": "topic1/lesson1",
                 "scenario": "default"
             },
-            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-javascript-cube/master/javascript.cube.json"
+            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-javascript-cube/master/javascript.cube.json",
+            "result": {
+                "topic1": {
+                    "lesson1": {
+                        "test": {
+                            "status": true,
+                            "total": 5,
+                            "failed": 0,
+                            "passed": 5
+                        },
+                        "points": 5000,
+                        "resultUrl": ""
+                    }
+                }
+            }
         }
     },
     "currentCube": "javascript",
