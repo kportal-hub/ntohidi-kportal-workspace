@@ -9,17 +9,14 @@
     },
     "cubes": {
         "javascript": {
-            "user": {
-                "id": "intern3303",
-                "name": "Nasrin Tohidi",
-                "username": "ntohidi",
-                "avatar": "https://avatars2.githubusercontent.com/u/17140097?v=4",
-                "email": "nasrin@kidocode.com",
-                "location": "Malaysia"
-            },
-            "time": 1579320341413,
+            "time": 1579320442498,
+            "modified": 0,
             "complete": 0,
-            "modified": 0
+            "current": {
+                "lesson": "main#easy#1.topic1/1.lesson1",
+                "scenario": "default"
+            },
+            "url": "https://raw.githubusercontent.com/ntohidi/ntohidi-javascript-cube/master/javascript.cube.json"
         }
     },
     "currentCube": "javascript",
